@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tortoise/orm-benchmarks/commit/6a5b4ebd435b6310752326afe0e80eb3de339584",
       "git:hexsha": "6a5b4ebd435b6310752326afe0e80eb3de339584",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
